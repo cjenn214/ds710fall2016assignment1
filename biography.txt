@@ -1,8 +1,10 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+1. Clint Jennings
+2. During my time as a Data Science student, I plan to learn powerful tools to help me enhance my analytic abilities and allow me to help any company by finding insights and solving data related issues.
+3. I have taken Intro to Programming (Visual Basic), Database Design and Management Systems (SQL), Intro to DS (R), Statistical Methods (R) in both my undergraduate program and this graduate program.
+I have used SQL and Visual Basic on the job to perform database queries and automate some processes in Excel. 
+4. I took an introductory stats course in my undergrad program as well as Statistical Methods in this DS program.  I have used statistics for hypothesis tests for A/B testing and have applied logistic and linear regression to forecast models.
+5.  None with Python.  None other than what is listed above for R.
+6.  I hope to build on the existing knowledge I have with programming in R and learn how powerful Python can be with certain types of analysis.
+7.  Originally from Stevens Point, WI, I now reside near Boston, MA with my fiancee.  I have worked as a Korean linguist in the Air Force, and a marketing analyst for Figi's Inc. in Marshfield, WI.  I now am a marketing analyst for UpToDate - the global leader in point of care clincial information.
+I am thrilled to be in this course and am excited about the doors it could open in the future!
